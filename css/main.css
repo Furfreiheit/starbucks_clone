@@ -727,59 +727,6 @@ outline: none;
 
 
 /* find-store */
-/* .find-store {
-  background-image: url(../images/find_store_bg.jpg);
-}
-.find-store .inner {
-  height: 400px;
-}
-.find-store .inner .find-store-picture1 {
-  width: 350px;
-  height:350px;
-  background-image: url(../images/find_store_picture1.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 100%;
-  position: absolute;
-  top:-50px;
-  left: 0;
-  box-shadow: 0 0 10px 3px rgba(0,0,0, 0.2);
-}
-.find-store .inner .find-store-picture2 {
-  width: 216px;
-  height:216px;
-  background-image: url(../images/find_store_picture2.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 100%;
-  position: absolute;
-  top:140px;
-  left: 250px;
-  box-shadow: 0 0 10px 3px rgba(0,0,0, 0.2);
-}
-.find-store .inner .find-store-texture1 {
-  margin: 0 auto;
-}
-.find-store .inner .find-store-texture2 {
-  position: absolute;
-  bottom: 0;
-  right:0;
-}
-
-.find-store .inner .text-group {
-  position: absolute;
-  top:110px;
-  right:100px;
-}
-
-.find-store .inner .text-group .title,
-.find-store .inner .text-group .description  {
-  margin-bottom: 20px;
-} */
-
-/*  */
 .find-store {
   background-image: url(../images/find_store_bg.jpg);
 }
